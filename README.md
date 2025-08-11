@@ -4,4 +4,4 @@ You can download the dataset from https://www.deepmimo.net/scenarios/v3/dynamic-
 
 It should be extracted under the folder 'Raytracing_scenarios'
 
-The error was captured in the figure Error.png
+The error was captured in the figure Error.PNG
